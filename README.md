@@ -28,4 +28,5 @@ Passionate Software Developer
     - [Delivery PHP Backend](https://github.com/rathoddeepak/clufter-backend-php)
 
 ### Other
-   - [FFMPEG Library to Create Scale Animation][]
+   - [FFMPEG Library to Create Scale Animation](https://github.com/rathoddeepak/ffmpeg-nodejs-scripter)
+   - [Assembly Simple Programs](https://github.com/rathoddeepak/ASM8086)

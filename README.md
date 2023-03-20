@@ -11,6 +11,7 @@ Passionate Software Developer
     - [FreshLine | Customer App | Please View Screenshots](https://github.com/rathoddeepak/freshline-customer)
     - [FreshLine | Manager App | Please View Screenshots](https://github.com/rathoddeepak/freshline-manager-app)
     - [FreshLine | Delivery App | Please View Screenshots](https://github.com/rathoddeepak/freshline-delivery)
+    - [FreshLine | Vendor App | Please View Screenshots](https://github.com/rathoddeepak/freshline-vendor)
     - [RealRoute | Creative Logistics UI](https://rathoddeepak.github.io/realroute)
     - [Adtherat | Creative Logistics UI](https://rathoddeepak.github.io/Adtherat)
     - [OneSkill | Company Landing Page](https://rathoddeepak.github.io/oneskill)
